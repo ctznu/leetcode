@@ -43,3 +43,23 @@ var lengthOfLongestSubstring = function(s) {
     }
     return max < end - start ? end -start : max;
 };
+
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var lengthOfLongestSubstring1 = function(s) {
+    let substr = '', maxLength = 0;
+    // find the next substring that longeer than previous to replace previous substring
+    for (var i = 0; i < s.length; i++) {
+        let findIndex = substr.indexOf(s[i]);
+        if (~findIndex) {
+            substr = substr.substring(findIndex + 1);
+        }
+        substr += s[i];
+        if (substr.length > maxLength) {
+            maxLength = substr.length;
+        }
+    }
+    return maxLength;
+};
