@@ -1,37 +1,48 @@
-// Source : https://leetcode-cn.com/problems/two-sum/
+// Source : https://leetcode-cn.com/problems/add-two-numbers/
 // Author : Tian Zhuo
-// Date   : 2018-11-17
-/**
- * @param {number[]} nums
- * @param {number} target
- * @return {number[]}
- */
-var twoSum = function(nums, target) {
-    for(var i=0;i<nums.length;i++) {
-        for(var j=i+1;j<nums.length;j++) {
-            if(nums[i] + nums[j] == target){
-                return [i, j]
-                break;
-            }
-        }
-    }
-};
+// Date   : 2018-11-21
+
+
+// [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]
+// [5,6,4]
+// [6,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]
+//   Definition for singly-linked list.
+//   function ListNode(val) {
+//       this.val = val;
+//       this.next = null;
+//   }
+
+//   function arrToList(arr) {
+//       let l = new ListNode(0);
+//       let head = l;
+//       for (const e of arr) {
+//         l.next = new ListNode(e);
+//         l = l.next;
+//       }
+//       return head.next;
+//   }
 
 /**
- * @param {number[]} nums
- * @param {number} target
- * @return {number[]}
- *
- * 使用store存储所需的数及匹配的数所在的下标
- * 遍历时查询store中是否存在匹配的数
- *
+ * @param {ListNode} l1
+ * @param {ListNode} l2
+ * @return {ListNode}
  */
-var twoSum1 = function(nums, target) {
-    const store = {}
-    for (let i = 0; i < nums.length; i++) {
-        const need = nums[i];
-        const needIndex = store[need];
-        if (needIndex !== undefined) return [needIndex, i]
-        store[target - need] = i;
+var addTwoNumbers = function(l1, l2) {
+    let dummyHead = new ListNode(0);
+    let p = l1, q = l2, curr = dummyHead;
+    let carry = 0;
+    while (p != null || q != null) {
+        let x = (p != null) ? p.val : 0;
+        let y = (q != null) ? q.val : 0;
+        let sum = carry + x + y;
+        carry = sum > 9 ? 1 : 0;
+        curr.next = new ListNode(sum % 10);
+        curr = curr.next;
+        if (p != null) p = p.next;
+        if (q != null) q = q.next;
     }
+    if (carry > 0) {
+        curr.next = new ListNode(carry);
+    }
+    return dummyHead.next;
 };
