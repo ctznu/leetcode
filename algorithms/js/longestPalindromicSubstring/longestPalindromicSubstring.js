@@ -10,29 +10,33 @@
  */
 var longestPalindrome = function(s) {
     if(s.length == 1) return s;
+    let longest = s.charAt(0);
     let l = 0;
-    let r = s.length - 1;
-    while(l < r  && l < s.length - 1 && r > 0) {
-        if(s.charAt(l) == s.charAt(r)){
+    let r = s.lastIndexOf(s.charAt(l));
+    while(l < s.length - longest.length){
+        if(r == l || r == 0){
+            l++;
+            r = s.lastIndexOf(s.charAt(l));
+        }else{
             let start = l;
             let end = r;
-            while(l <= r && l < s.length - 1 && r > 0){
-                if(s.charAt(l) !== s.charAt(r)) break;
-                if(l == r || l + 1 == r) return s.substring(start, end + 1);
-                l++;
-                r--;
+            while(l < r){
+                if(s.charAt(l) !== s.charAt(r)){
+                    l = start;
+                    r = s.lastIndexOf(s.charAt(l), end - 1);
+                    break;
+                }
+                if(r - l <= 2){
+                    if(longest.length < end + 1 - start) longest = s.substring(start, end + 1);
+                    l = start + 1;
+                    r = s.lastIndexOf(s.charAt(l));
+                    break;
+                }else{
+                    l++;
+                    r--;
+                }
             }
-            if(l + 1 == r){
-                l = start + 1;
-                r = s.length - 1;
-            }
-        }else{
-            r--;
-        }
-        if(r == l){
-            l++;
-            r = s.length - 1;
         } 
     }
-    return s.charAt(0);
+    return longest;
 };
