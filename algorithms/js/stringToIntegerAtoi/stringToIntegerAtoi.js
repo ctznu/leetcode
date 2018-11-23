@@ -1,6 +1,6 @@
-// Source : https://leetcode-cn.com/problems/longest-palindromic-substring/
+// Source : https://leetcode-cn.com/problems/string-to-integer-atoi/
 // Author : Tian Zhuo
-// Date   : 2018-11-22
+// Date   : 2018-11-23
 
 /**
  * @param {string} str
