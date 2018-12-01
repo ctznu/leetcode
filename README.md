@@ -24,7 +24,6 @@ LeetCode
 |17|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [JS](./algorithms/js/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.js)|Medium|
 |18|[4Sum](https://oj.leetcode.com/problems/4sum/)| [JS](./algorithms/js/4sum/4sum.js)|Medium|
 |20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [JS](./algorithms/js/validParentheses/validParentheses.js)|Easy|
-
 |21|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [JS](./algorithms/js/mergeTwoSortedList/mergeTwoSortedList.js)|Easy|
 |22|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [JS](./algorithms/js/generateParentheses/generateParentheses.js)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [JS](./algorithms/js/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.js), [Java](./algorithms/java/src/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java)|Easy|
