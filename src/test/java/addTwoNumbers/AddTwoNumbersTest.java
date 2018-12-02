@@ -44,4 +44,36 @@ public class AddTwoNumbersTest {
             assertEquals(l, expected);
         }
     }
+
+    @Test
+    public void testAddTwoNumbers2() {
+        AddTwoNumbers atn = new AddTwoNumbers();
+        ListNode l1 = generate(new int[]{9, 8, 2});
+        ListNode l2 = generate(new int[]{1});
+        ListNode l = atn.addTwoNumbers(l1, l2);
+        ListNode expected = generate(new int[]{0, 9, 2});
+        while(l != null){
+            assertEquals(l.val, expected.val);
+            l = l.next;
+            expected = expected.next;
+            if(l == null)
+            assertEquals(l, expected);
+        }
+    }
+
+    @Test
+    public void testAddTwoNumbers3() {
+        AddTwoNumbers atn = new AddTwoNumbers();
+        ListNode l1 = generate(new int[]{9, 9});
+        ListNode l2 = generate(new int[]{1});
+        ListNode l = atn.addTwoNumbers(l1, l2);
+        ListNode expected = generate(new int[]{0, 0, 1});
+        while(l != null){
+            assertEquals(l.val, expected.val);
+            l = l.next;
+            expected = expected.next;
+            if(l == null)
+            assertEquals(l, expected);
+        }
+    }
  }
