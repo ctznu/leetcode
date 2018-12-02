@@ -6,7 +6,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| [JS](./algorithms/js/twoSum/twoSum.js)|Easy|
+|1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| [JS](./algorithms/js/twoSum/twoSum.js), [Java](./src/main/java/twoSum/TwoSum.java)|Easy|
 |2|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)| [JS](./algorithms/js/addTwoNumbers/addTwoNumbers.js)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| [JS](./algorithms/js/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.js)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)| [JS](./algorithms/js/medianOfTwoSortedArrays/medianOfTwoSortedArrays.js)|Hard|

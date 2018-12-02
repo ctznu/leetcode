@@ -1,5 +1,5 @@
 /*
- * @Source: https://leetcode-cn.com/problems/
+ * @Source: https://leetcode-cn.com/problems/two-sum/
  * @Author: Tian Zhuo
  * @Date: 2018-12-01 20:56:31
  */
@@ -18,12 +18,5 @@ public class TwoSum {
             store.put(nums[i], i);
         }
         return null;
-    }
-
-    public static void main(String[] args) {
-        TwoSum t = new TwoSum();
-        int[] nums = new int[]{2, 7, 11, 15};
-        int[] res = t.twoSum(nums, 9);
-        System.out.println(res[0] +  ", " + res[1]);
     }
 }
