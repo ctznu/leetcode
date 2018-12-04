@@ -30,6 +30,7 @@ LeetCode
 |27|[Remove Element](https://leetcode-cn.com/problems/remove-element/)| [JS](./algorithms/js/removeElement/removeElement.js)|Easy|
 |28|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)| [JS](./algorithms/js/strStr/strStr.js), [Java](./algorithms/java/src/strStr/strStr.java)|Easy|
 |30|[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)| [JS](./algorithms/js/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords.js)|Hard|
+|31|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)| [JS](./algorithms/js/nextPermutation/nextPermutation.js)|Medium|
 |35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)| [JS](./algorithms/js/searchInsertPosition/searchInsertPosition.js), [Java](./algorithms/java/src/searchInsertPosition/searchInsertPosition.java)|Easy|
 |38|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)| [JS](./algorithms/js/countAndSay/countAndSay.js), [Java](./algorithms/java/src/countAndSay/CountAndSay.java)|Easy|
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)| [JS](./algorithms/js/maximumSubArray/maximumSubArray.js)|Easy|
