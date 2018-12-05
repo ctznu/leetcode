@@ -17,7 +17,7 @@ public class ValidSudoku {
             for (int j = 0; j < 9; j++) {
                 char s = board[i][j];
                 if(Character.isDigit(s)){
-                    int index = ~~(i / 3) * 3 + ~~(j / 3);
+                    int index = (i / 3) * 3 + j / 3;
                     if(map.get(s) != null){
                         for (int k = 0; k < map.get(s).size(); k++) {
                             if(i == map.get(s).get(k)[0] || j == map.get(s).get(k)[1] || index == map.get(s).get(k)[2])
