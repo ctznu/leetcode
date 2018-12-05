@@ -32,7 +32,7 @@ LeetCode
 |30|[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)| [JS](./algorithms/js/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords.js)|Hard|
 |31|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)| [JS](./algorithms/js/nextPermutation/nextPermutation.js), [java](./src/main/java/nextPermutation/NextPermutation.java)|Medium|
 |35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)| [JS](./algorithms/js/searchInsertPosition/searchInsertPosition.js)|Easy|
-|36|[Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/)| [JS](./algorithms/js/validSudoku/validSudoku.js)|Medium|
+|36|[Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/)| [JS](./algorithms/js/validSudoku/validSudoku.js), [Java](./src/main/java/validSudoku/ValidSudoku.java)|Medium|
 |38|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)| [JS](./algorithms/js/countAndSay/countAndSay.js)|Easy|
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)| [JS](./algorithms/js/maximumSubArray/maximumSubArray.js)|Easy|
 |58|[Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/)| [JS](./algorithms/js/lengthOfLastWord/lengthOfLastWord.js)|Easy|

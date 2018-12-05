@@ -62,7 +62,6 @@ var isValidSudoku = function(board) {
  * @return {boolean}
  */
 var isValidSudoku1 = function (board) {
-    debugger
     var set = {};
     for (var i = 1; i <= 9; i++) set[i] = [];
 
