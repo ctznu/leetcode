@@ -1,5 +1,5 @@
 /*
- * @Source: https://leetcode-cn.com/problems/
+ * @Source: https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
  * @Author: Tian Zhuo
  * @Date: 2018-12-06 20:57:57
  */
