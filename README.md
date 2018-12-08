@@ -36,6 +36,7 @@ LeetCode
 |35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)| [JS](./algorithms/js/searchInsertPosition/searchInsertPosition.js)|Easy|
 |36|[Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/)| [JS](./algorithms/js/validSudoku/validSudoku.js), [Java](./src/main/java/validSudoku/ValidSudoku.java)|Medium|
 |38|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)| [JS](./algorithms/js/countAndSay/countAndSay.js)|Easy|
+|39|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/)| [JS](./algorithms/js/combinationSum/combinationSum.js)|Meidum|
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)| [JS](./algorithms/js/maximumSubArray/maximumSubArray.js)|Easy|
 |58|[Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/)| [JS](./algorithms/js/lengthOfLastWord/lengthOfLastWord.js)|Easy|
 |70|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)| [JS](./algorithms/js/climbStairs/climbStairs.js)|Easy|
