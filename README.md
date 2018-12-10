@@ -10,7 +10,7 @@ LeetCode
 |2|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)| [JS](./algorithms/js/addTwoNumbers/addTwoNumbers.js), [Java](./src/main/java/addTwoNumbers/AddTwoNumbers.java)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| [JS](./algorithms/js/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.js), [Java](./src/main/java/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)| [JS](./algorithms/js/medianOfTwoSortedArrays/medianOfTwoSortedArrays.js), [Java](./src/main/java/medianOfTwoSortedArrays/MedianOfTwoSortedArrays.java)|Hard|
-|5|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)| [JS](./algorithms/js/longestPalindromicSubstring/longestPalindromicSubstring.js)|Medium|
+|5|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)| [JS](./algorithms/js/longestPalindromicSubstring/longestPalindromicSubstring.js), [Java](./src/main/java/longestPalindromicSubstring/LongestPalindromicSubstring.java)|Medium|
 |6|[ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/)| [JS](./algorithms/js/zigZagConversion/zigZagConversion.js)|Medium|
 |7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)| [JS](./algorithms/js/reverseInteger/reverseInteger.js)|Easy|
 |8|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| [JS](./algorithms/js/stringToIntegerAtoi/stringToIntegerAtoi.js)|Medium|
