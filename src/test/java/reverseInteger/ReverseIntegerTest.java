@@ -16,5 +16,7 @@ public class ReverseIntegerTest {
         assertEquals(321, res);
         res = ri.reverse(-345);
         assertEquals(-543, res);
+        res = ri.reverse(1534236469);
+        assertEquals(0, res);
     }
 }
