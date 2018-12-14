@@ -13,7 +13,7 @@ LeetCode
 |5|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)| [JS](./algorithms/js/longestPalindromicSubstring/longestPalindromicSubstring.js), [Java](./src/main/java/longestPalindromicSubstring/LongestPalindromicSubstring.java)|Medium|
 |6|[ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/)| [JS](./algorithms/js/zigzagConversion/zigzagConversion.js), [Java](./src/main/java/zigzagConversion/ZigzagConversion.java)|Medium|
 |7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)| [JS](./algorithms/js/reverseInteger/reverseInteger.js), [Java](./src/main/java/reverseInteger/ReverseInteger.java)|Easy|
-|8|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| [JS](./algorithms/js/stringToIntegerAtoi/stringToIntegerAtoi.js)|Medium|
+|8|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| [JS](./algorithms/js/stringToIntegerAtoi/stringToIntegerAtoi.js), [Java](./src/main/java/stringToIntegerAtoi/StringToIntegerAtoi.java)|Medium|
 |9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)| [JS](./algorithms/js/palindromeNumber/palindromeNumber.js)|Easy|
 |11|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)| [JS](./algorithms/js/containerWithMostWater/containerWithMostWater.js)|Medium|
 |12|[Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/)| [JS](./algorithms/js/integerToRoman/integerToRoman.js)|Medium|
