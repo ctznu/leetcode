@@ -7,8 +7,8 @@
  * @return {number}
  */
 var threeSumClosest = function(nums, target) {
-    nums.sort((a, b) => { return a - b })
     if (nums.length < 3) return [];
+    nums.sort((a, b) => { return a - b })
     let minDiff = Infinity
     for (let k = 0; k < nums.length - 2; k++) {
         if (k > 0 && nums[k] == nums[k - 1]) continue;
