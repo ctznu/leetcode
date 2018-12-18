@@ -23,7 +23,7 @@ LeetCode
 |16|[3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/)| [JS](./algorithms/js/3sumClosest/3sumClosest.js), [Java](./src/main/java/threeSumCloset/ThreeSumCloset.java)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)| [JS](./algorithms/js/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.js), [Java](./src/main/java/letterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber.java)|Medium|
 |18|[4Sum](https://leetcode-cn.com/problems/4sum/)| [JS](./algorithms/js/4sum/4sum.js), [Java](./src/main/java/fourSum/FourSum.java)|Medium|
-|19|[Remove nth node from end of list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)| [JS](./algorithms/js/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.js)|Medium|
+|19|[Remove nth node from end of list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)| [JS](./algorithms/js/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.js), [Java](./src/main/java/removeNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.java)|Medium|
 |20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)| [JS](./algorithms/js/validParentheses/validParentheses.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| [JS](./algorithms/js/mergeTwoSortedLists/mergeTwoSortedLists.js)|Easy|
 |22|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)| [JS](./algorithms/js/generateParentheses/generateParentheses.js)|Medium|
