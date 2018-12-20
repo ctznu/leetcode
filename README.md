@@ -25,7 +25,7 @@ LeetCode
 |18|[4Sum](https://leetcode-cn.com/problems/4sum/)| [JS](./algorithms/js/4sum/4sum.js), [Java](./src/main/java/fourSum/FourSum.java)|Medium|
 |19|[Remove nth node from end of list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)| [JS](./algorithms/js/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.js), [Java](./src/main/java/removeNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.java)|Medium|
 |20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)| [JS](./algorithms/js/validParentheses/validParentheses.js), [Java](./src/main/java/validParentheses/ValidParentheses.java)|Easy|
-|21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| [JS](./algorithms/js/mergeTwoSortedLists/mergeTwoSortedLists.js)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| [JS](./algorithms/js/mergeTwoSortedLists/mergeTwoSortedLists.js), [Java](./src/main/java/mergeTwoSortedLists/MergeTwoSortedLists.java)|Easy|
 |22|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)| [JS](./algorithms/js/generateParentheses/generateParentheses.js)|Medium|
 |24|[Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)| [JS](./algorithms/js/swapNodesInPairs/swapNodesInPairs.js), [Java](./src/main/java/swapNodesInPairs/SwapNodesInPairs.java)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [JS](./algorithms/js/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.js)|Easy|
