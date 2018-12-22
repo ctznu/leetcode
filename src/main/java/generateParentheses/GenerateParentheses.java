@@ -3,13 +3,13 @@
  * @Author: Tian Zhuo
  * @Date: 2018-12-22 14:06:16
  */
-package generateParenthesis;
+package generateParentheses;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class GenerateParenthesis {
-    public List<String> generateParenthesis(int n) {
+public class GenerateParentheses {
+    public List<String> generateParentheses(int n) {
         List<String> res = new ArrayList<>();
         fn(n, n, "", res);
         return res;

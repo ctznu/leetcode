@@ -2,7 +2,7 @@
  * @Author: Tian Zhuo
  * @Date: 2018-12-22 14:11:57
  */
-package generateParenthesis;
+package generateParentheses;
 
 import static org.junit.Assert.assertTrue;
 
@@ -11,11 +11,11 @@ import java.util.List;
 
 import org.junit.Test;
 
-public class GenerateParenthesisTest {
+public class GenerateParenthesesTest {
     @Test
     public void testGenerateParenthesis () {
-        GenerateParenthesis gp = new GenerateParenthesis();
-        List<String> res = gp.generateParenthesis(3);
+        GenerateParentheses gp = new GenerateParentheses();
+        List<String> res = gp.generateParentheses(3);
         List<String> result = Arrays.asList("((()))", "(()())", "(())()", "()(())", "()()()");
         assertTrue(res.equals(result));
     }
