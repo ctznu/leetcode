@@ -29,7 +29,7 @@ LeetCode
 |22|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)| [JS](./algorithms/js/generateParentheses/generateParentheses.js), [Java](./src/main/java/generateParentheses/GenerateParentheses.java)|Medium|
 |24|[Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)| [JS](./algorithms/js/swapNodesInPairs/swapNodesInPairs.js), [Java](./src/main/java/swapNodesInPairs/SwapNodesInPairs.java)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [JS](./algorithms/js/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.js), [Java](./src/main/java/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java)|Easy|
-|27|[Remove Element](https://leetcode-cn.com/problems/remove-element/)| [JS](./algorithms/js/removeElement/removeElement.js)|Easy|
+|27|[Remove Element](https://leetcode-cn.com/problems/remove-element/)| [JS](./algorithms/js/removeElement/removeElement.js), [Java](./src/main/java/removeElement/RemoveElement.java)|Easy|
 |28|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)| [JS](./algorithms/js/strStr/strStr.js)|Easy|
 |30|[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)| [JS](./algorithms/js/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords.js)|Hard|
 |31|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)| [JS](./algorithms/js/nextPermutation/nextPermutation.js), [java](./src/main/java/nextPermutation/NextPermutation.java)|Medium|
