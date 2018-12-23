@@ -33,7 +33,7 @@ LeetCode
 |28|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)| [JS](./algorithms/js/strStr/strStr.js)|Easy|
 |30|[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)| [JS](./algorithms/js/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords.js)|Hard|
 |31|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)| [JS](./algorithms/js/nextPermutation/nextPermutation.js), [java](./src/main/java/nextPermutation/NextPermutation.java)|Medium|
-|35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)| [JS](./algorithms/js/searchInsertPosition/searchInsertPosition.js)|Easy|
+|35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)| [JS](./algorithms/js/searchInsertPosition/searchInsertPosition.js), [Java](./src/main/java/searchInsertPosition/SearchInsertPosition.java)|Easy|
 |36|[Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/)| [JS](./algorithms/js/validSudoku/validSudoku.js), [Java](./src/main/java/validSudoku/ValidSudoku.java)|Medium|
 |38|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)| [JS](./algorithms/js/countAndSay/countAndSay.js)|Easy|
 |39|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/)| [JS](./algorithms/js/combinationSum/combinationSum.js)|Meidum|
