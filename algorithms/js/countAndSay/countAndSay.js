@@ -42,7 +42,7 @@ let countAndSay1 = function(n) {
         let temp = res;
         let tag = temp[0];
         let count = 1;
-        res = [];
+        res = '';
         for (let j = 1; j < temp.length; j++) {
             if (temp[j] === tag) {
                 count++;
