@@ -40,6 +40,6 @@ LeetCode
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)| [JS](./algorithms/js/maximumSubArray/maximumSubArray.js), [Java](./src/main/java/maximumSubArray/MaximumSubArray.java)|Easy|
 |58|[Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/)| [Java](./src/main/java/lengthOfLastWord/LengthOfLastWord.java)|Easy|
 |70|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)| [JS](./algorithms/js/climbStairs/climbStairs.js), [Java](./src/main/java/climbStairs/ClimbStairs.java)|Easy|
-|66|[Plus One](https://leetcode-cn.com/problems/plus-one/)| [JS](./algorithms/js/plusOne/plusOne.js)|Easy|
+|66|[Plus One](https://leetcode-cn.com/problems/plus-one/)| [JS](./algorithms/js/plusOne/plusOne.js), [Java](./src/main/java/plusOne/PlusOne.java)|Easy|
 |67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)| [JS](./algorithms/js/addBinary/addBinary.js)|Easy|
 |69|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)| [JS](./algorithms/js/sqrt/sqrt.js)|Easy|
