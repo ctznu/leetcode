@@ -44,3 +44,4 @@ LeetCode
 |66|[Plus One](https://leetcode-cn.com/problems/plus-one/)| [JS](./algorithms/js/plusOne/plusOne.js), [Java](./src/main/java/plusOne/PlusOne.java)|Easy|
 |67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)| [JS](./algorithms/js/addBinary/addBinary.js), [Java](./src/main/java/addBinary/AddBinary.java)|Easy|
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)| [JS](./algorithms/js/findPivotIndex/findPivotIndex.js), [Java](./src/main/java/findPivotIndex/FindPivotIndex.java)|Easy|
+|747|[Find Pivot Index](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)| [JS](./algorithms/js/largestNumberAtLeastTwiceOfOthers/largestNumberAtLeastTwiceOfOthers.js), [Java](./src/main/java/largestNumberAtLeastTwiceOfOthers/LargestNumberAtLeastTwiceOfOthers.java)|Easy|
