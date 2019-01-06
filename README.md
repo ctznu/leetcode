@@ -44,6 +44,7 @@ LeetCode
 |70|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)| [JS](./algorithms/js/climbingStairs/climbingStairs.js), [Java](./src/main/java/climbingStairs/ClimbingStairs.java)|Easy|
 |66|[Plus One](https://leetcode-cn.com/problems/plus-one/)| [JS](./algorithms/js/plusOne/plusOne.js), [Java](./src/main/java/plusOne/PlusOne.java)|Easy|
 |67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)| [JS](./algorithms/js/addBinary/addBinary.js), [Java](./src/main/java/addBinary/AddBinary.java)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/)| [JS](./algorithms/js/bestTimeToBuyAndSellStockII/bestTimeToBuyAndSellStockII.js), [Java](./src/main/java/bestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.java)|Easy|
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)| [JS](./algorithms/js/findPivotIndex/findPivotIndex.js), [Java](./src/main/java/findPivotIndex/FindPivotIndex.java)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)| [JS](./algorithms/js/largestNumberAtLeastTwiceOfOthers/largestNumberAtLeastTwiceOfOthers.js), [Java](./src/main/java/largestNumberAtLeastTwiceOfOthers/LargestNumberAtLeastTwiceOfOthers.java)|Easy|
 |498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)| [JS](./algorithms/js/diagonalTraverse/diagonalTraverse.js), [Java](./src/main/java/diagonalTraverse/DiagonalTraverse.java)|Medium|
