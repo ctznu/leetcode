@@ -38,6 +38,7 @@ LeetCode
 |36|[Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/)| [JS](./algorithms/js/validSudoku/validSudoku.js), [Java](./src/main/java/validSudoku/ValidSudoku.java)|Medium|
 |38|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)| [JS](./algorithms/js/countAndSay/countAndSay.js), [Java](./src/main/java/countAndSay/CountAndSay.java)|Easy|
 |39|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/)| [JS](./algorithms/js/combinationSum/combinationSum.js), [Java](./src/main/java/combinationSum/CombinationSum.java)|Meidum|
+|48|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/)| [JS](./algorithms/js/rotateImage/rotateImage.js), [Java](./src/main/java/rotateImage/RotateImage.java)|Meidum|
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)| [JS](./algorithms/js/maximumSubArray/maximumSubArray.js), [Java](./src/main/java/maximumSubArray/MaximumSubArray.java)|Easy|
 |54|[Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)| [JS](./algorithms/js/spiralMatrix/spiralMatrix.js), [Java](./src/main/java/spiralMatrix/SpiralMatrix.java)|Medium|
 |58|[Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/)| [JS](./algorithms/js/lengthOfLastWord/lengthOfLastWord.js), [Java](./src/main/java/lengthOfLastWord/LengthOfLastWord.java)|Easy|
