@@ -46,6 +46,7 @@ LeetCode
 |66|[Plus One](https://leetcode-cn.com/problems/plus-one/)| [JS](./algorithms/js/plusOne/plusOne.js), [Java](./src/main/java/plusOne/PlusOne.java)|Easy|
 |67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)| [JS](./algorithms/js/addBinary/addBinary.js), [Java](./src/main/java/addBinary/AddBinary.java)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/)| [JS](./algorithms/js/bestTimeToBuyAndSellStockII/bestTimeToBuyAndSellStockII.js), [Java](./src/main/java/bestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.java)|Easy|
+|125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)| [JS](./algorithms/js/validPalindrome/validPalindrome.js), [Java](./src/main/java/validPalindrome/ValidPalindrome.java)|Easy|
 |136|[Single Number](https://leetcode-cn.com/problems/single-number/)| [JS](./algorithms/js/singleNumber/singleNumber.js), [Java](./src/main/java/singleNumber/SingleNumber.java)|Easy|
 |189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)| [JS](./algorithms/js/rotateArray/rotateArray.js), [Java](./src/main/java/rotateArray/RotateArray.java)|Easy|
 |217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/)| [JS](./algorithms/js/containsDuplicate/containsDuplicate.js), [Java](./src/main/java/containsDuplicate/ContainsDuplicate.java)|Easy|
