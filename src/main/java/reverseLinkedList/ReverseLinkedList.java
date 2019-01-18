@@ -20,4 +20,15 @@ public class ReverseLinkedList {
         }
         return reversedHead;
     }
+
+    public ListNode reverse(ListNode head){
+        // 递归到最后一个节点，返回新的新的头结点
+        if (head.next == null) {
+            return head;
+        }
+        ListNode newHead = reverse(head.next);
+        head.next.next = head;
+        head.next = null;
+        return newHead;
+    }
 }
