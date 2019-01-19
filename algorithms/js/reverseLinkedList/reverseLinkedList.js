@@ -28,3 +28,16 @@ var reverseList = function(head) {
     }
     return reversedHead;
 };
+
+var reverse = function(head) {
+    if(!head) {
+        return null;
+    }
+    if(!head.next){
+        return head;
+    }
+    let newHead = reverse(head.next);
+    head.next.next = head;
+    head.next = null;
+    return newHead;
+}
