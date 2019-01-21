@@ -4,8 +4,6 @@
  * @Date: 2019-01-21 21:04:18
  */
 package sortColors;
-// 输入: [2,0,2,1,1,0]
-// 输出: [0,0,1,1,2,2]
 public class SortColors {
     public void sortColors1(int[] nums) {
         int[] store = new int[]{0, 0, 0};
