@@ -38,13 +38,14 @@ LeetCode
 |36|[Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/)| [JS](./algorithms/js/validSudoku/validSudoku.js), [Java](./src/main/java/validSudoku/ValidSudoku.java)|Medium|
 |38|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)| [JS](./algorithms/js/countAndSay/countAndSay.js), [Java](./src/main/java/countAndSay/CountAndSay.java)|Easy|
 |39|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/)| [JS](./algorithms/js/combinationSum/combinationSum.js), [Java](./src/main/java/combinationSum/CombinationSum.java)|Meidum|
-|48|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/)| [JS](./algorithms/js/rotateImage/rotateImage.js), [Java](./src/main/java/rotateImage/RotateImage.java)|Meidum|
+|48|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/)| [JS](./algorithms/js/rotateImage/rotateImage.js), [Java](./src/main/java/rotateImage/RotateImage.java)|Medium|
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)| [JS](./algorithms/js/maximumSubArray/maximumSubArray.js), [Java](./src/main/java/maximumSubArray/MaximumSubArray.java)|Easy|
 |54|[Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)| [JS](./algorithms/js/spiralMatrix/spiralMatrix.js), [Java](./src/main/java/spiralMatrix/SpiralMatrix.java)|Medium|
 |58|[Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/)| [JS](./algorithms/js/lengthOfLastWord/lengthOfLastWord.js), [Java](./src/main/java/lengthOfLastWord/LengthOfLastWord.java)|Easy|
-|70|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)| [JS](./algorithms/js/climbingStairs/climbingStairs.js), [Java](./src/main/java/climbingStairs/ClimbingStairs.java)|Easy|
 |66|[Plus One](https://leetcode-cn.com/problems/plus-one/)| [JS](./algorithms/js/plusOne/plusOne.js), [Java](./src/main/java/plusOne/PlusOne.java)|Easy|
 |67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)| [JS](./algorithms/js/addBinary/addBinary.js), [Java](./src/main/java/addBinary/AddBinary.java)|Easy|
+|70|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)| [JS](./algorithms/js/climbingStairs/climbingStairs.js), [Java](./src/main/java/climbingStairs/ClimbingStairs.java)|Easy|
+|75|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/)| [JS](./algorithms/js/sortColors/sortColors.js), [Java](./src/main/java/sortColors/SortColors.java)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/submissions/)| [JS](./algorithms/js/removeDuplicatesFromSortedArrayII/removeDuplicatesFromSortedArrayII.js), [Java](./src/main/java/removeDuplicatesFromSortedArrayII/RemoveDuplicatesFromSortedArrayII.java)|Medium|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/)| [JS](./algorithms/js/bestTimeToBuyAndSellStockII/bestTimeToBuyAndSellStockII.js), [Java](./src/main/java/bestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.java)|Easy|
 |125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)| [JS](./algorithms/js/validPalindrome/validPalindrome.js), [Java](./src/main/java/validPalindrome/ValidPalindrome.java)|Easy|
