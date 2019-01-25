@@ -52,6 +52,7 @@ LeetCode
 |122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/)| [JS](./algorithms/js/bestTimeToBuyAndSellStockII/bestTimeToBuyAndSellStockII.js), [Java](./src/main/java/bestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.java)|Easy|
 |125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)| [JS](./algorithms/js/validPalindrome/validPalindrome.js), [Java](./src/main/java/validPalindrome/ValidPalindrome.java)|Easy|
 |136|[Single Number](https://leetcode-cn.com/problems/single-number/)| [JS](./algorithms/js/singleNumber/singleNumber.js), [Java](./src/main/java/singleNumber/SingleNumber.java)|Easy|
+|167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| [Java](./src/main/java/twoSumII/twoSumII.java)|Easy|
 |189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)| [JS](./algorithms/js/rotateArray/rotateArray.js), [Java](./src/main/java/rotateArray/RotateArray.java)|Easy|
 |206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)| [JS](./algorithms/js/reverseLinkedList/reverseLinkedList.js), [Java](./src/main/java/reverseLinkedList/ReverseLinkedList.java)|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/comments/)| [Java](./src/main/java/kthLargestElementInAnArray/KthLargestElementInAnArray.java)|Easy|
