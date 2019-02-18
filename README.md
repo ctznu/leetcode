@@ -68,4 +68,3 @@ LeetCode
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/)| [JS](./algorithms/js/findPivotIndex/findPivotIndex.js), [Java](./src/main/java/findPivotIndex/FindPivotIndex.java)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)| [JS](./algorithms/js/largestNumberAtLeastTwiceOfOthers/largestNumberAtLeastTwiceOfOthers.js), [Java](./src/main/java/largestNumberAtLeastTwiceOfOthers/LargestNumberAtLeastTwiceOfOthers.java)|Easy|
 |498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)| [JS](./algorithms/js/diagonalTraverse/diagonalTraverse.js), [Java](./src/main/java/diagonalTraverse/DiagonalTraverse.java)|Medium|
-
